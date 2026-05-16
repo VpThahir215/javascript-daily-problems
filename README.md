@@ -6,7 +6,7 @@ Welcome to my daily coding log! This repository tracks my journey of building co
 
 ## 📅 Progress Tracker
 
-| Timeline | Challenges Solved | Key Concepts Covered | Code Artifacts |
+| Timeline | Challenges Solved | Key Concepts Covered | 
 | :--- | :--- | :--- | :--- |
 | **Day 1** | • Get First Array Value<br>• Addition Subroutine<br>• Hours to Seconds Converter<br>• Electrical Circuit Power<br>• Correcting Syntax Errors<br>• Minutes to Seconds | • Array Indexing (`arr[0]`)<br>• Arithmetic operators<br>• Unit conversions<br>
 | **Day 2** | • The "Seven Boom!" Search<br>• Debugging Infinite Loops | • Array search methods (`.includes()`)<br>• Typecasting (`.toString()`)
